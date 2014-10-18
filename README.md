@@ -12,10 +12,10 @@ Kilka przykładowych agregacji korzystających z danych
 
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
-    1. [Nazwisko, Imię](link do repo z zadaniem Neo4j na GitHub).
-       [Tytuł 1](link do repo z zadaniem **EDA** na GitHub),
-       [Tytuł 2](link do repo z zadaniem **Agregacje** na GitHub),
-       [Tytuł 3](link do repo z zadaniem **MapReduce** na GitHub).
+    1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
+       [Tytuł 1](link do repo z zadaniem **EDA**),
+       [Tytuł 2](link do repo z zadaniem **Agregacje**),
+       [Tytuł 3](link do repo z zadaniem **MapReduce**).
 
 1. Barański, Kamil
 1. Basiak, Paweł
