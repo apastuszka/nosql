@@ -1,11 +1,12 @@
 # Technologie NoSQL
 
-![Elasticsearch](images/elasticsearch-logo.png)
-
+<!--
 Kilka przykładowych agregacji korzystających z danych
 [zipcodes](http://media.mongodb.org/zips.json) oraz
 [imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Framework Examples](Aggregations_in_JS.md).
+-->
 
+![Elasticsearch logo](images/elasticsearch-logo.png)
 
 ### Neo4j, MongoDB i Elasticsearch
 
