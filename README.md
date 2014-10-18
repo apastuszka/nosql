@@ -17,36 +17,41 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
        [Tytuł 2](link do repo z zadaniem **Agregacje**),
        [Tytuł 3](link do repo z zadaniem **MapReduce**).
 
+<!--
 1. Barański, Kamil
 1. Basiak, Paweł
+1. Ćwikowski, Grzegorz
+1. Dunikowski, Jacek
+1. Mazur, Michał
+1. Miszczykowski, Mariusz
+1. Mrotek, Remigiusz
+1. Paprocki, Adam
+1. Rawicki, Wojciech
+1. Samsoniuk, Damian
+1. Turzyński, Michał
+1. Wardzińska, Justyna
+1. Wiergowski, Paweł
+1. Zielke, Adam
+-->
+
 1. Budka, Kamil
 1. Całus, Maciej
-1. Ćwikowski, Grzegorz
 1. Denejko, Wojciech
-1. Dunikowski, Jacek
+1. Duchna, Przemysław
 1. Falęcki, Jacek
 1. Franckiewicz, Tomasz
 1. Gonera, Ewa
 1. Hinz, Karol
 1. Kalarus, Marcin
 1. Massalska, Emilia
-1. Mazur, Michał
 1. Michalski, Mateusz
-1. Miszczykowski, Mariusz
-1. Mrotek, Remigiusz
 1. Olszer, Krzysztof
 1. Pająkowski, Adrian
-1. Paprocki, Adam
 1. Pastuszka, Anna
 1. Perkowski, Maciej
-1. Rawicki, Wojciech
-1. Samsoniuk, Damian
 1. Szykuła, Artur
-1. Turzyński, Michał
-1. Wardzińska, Justyna
 1. Wasilewski, Tomasz
-1. Wiergowski, Paweł
-1. Zielke, Adam
+1. Zduniak, Daniel
 
 
 ## Simple Rules for Reproducible Computations
