@@ -46,7 +46,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Massalska, Emilia
 1. Michalski, Mateusz
 1. Olszer, Krzysztof
-1. Pająkowski, Adrian
+1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
 1. Pastuszka, Anna
 1. Perkowski, Maciej
 1. Szykuła, Artur
