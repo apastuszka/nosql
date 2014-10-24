@@ -3,7 +3,7 @@
 <!--
 Kilka przykładowych agregacji korzystających z danych
 [zipcodes](http://media.mongodb.org/zips.json) oraz
-[imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Framework Examples](Aggregations_in_JS.md).
+[imieniny](data/wbzyl/imieniny.csv) opisano w [Aggregation Pipeline Examples](Aggregations_in_JS.md).
 -->
 
 ![Elasticsearch logo](images/elasticsearch-logo.png)

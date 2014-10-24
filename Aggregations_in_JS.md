@@ -1,4 +1,4 @@
-## Aggregation Framework Examples (MongoDB, Javascript)
+## Aggregation Pipeline Examples (MongoDB, Javascript)
 
 This document provides a number of practical examples that display the
 capabilities of the aggregation framework.
@@ -236,12 +236,6 @@ Use *mongoimport* to import this data set into MongoDB:
 
 ```sh
 mongoimport --drop --db test --collection cal name_days.json
-```
-
-or use the *cal* collection from here:
-
-```sh
-mongo --username student --password sesja2013 153.19.1.202/test
 ```
 
 The collection *cal*  should contain 364 documents
