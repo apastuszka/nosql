@@ -42,7 +42,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Franckiewicz, Tomasz](https://github.com/tfranckiewicz/nosql "neo4j private repo")
 1. Gonera, Ewa
 1. Hinz, Karol
-1. Kalarus, Marcin
+1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo")
 1. Massalska, Emilia
 1. Michalski, Mateusz
 1. Olszer, Krzysztof
