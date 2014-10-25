@@ -18,42 +18,42 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
        [Tytuł 3](link do repo z zadaniem **MapReduce**).
 
 <!--
-1. Barański, Kamil
-1. Basiak, Paweł
-1. Ćwikowski, Grzegorz
-1. Dunikowski, Jacek
-1. Mazur, Michał
-1. Miszczykowski, Mariusz
-1. Mrotek, Remigiusz
-1. Paprocki, Adam
-1. Rawicki, Wojciech
-1. Samsoniuk, Damian
-1. Turzyński, Michał
-1. Wardzińska, Justyna
-1. Wiergowski, Paweł
-1. Zielke, Adam
+1. Basiak, Paweł 25.10
+1. Dunikowski, Jacek 25.10
+1. Mazur, Michał 25.10
+1. Miszczykowski, Mariusz 25.10
+1. Mrotek, Remigiusz 25.10
+1. Paprocki, Adam 25.10
+1. Rawicki, Wojciech 25.10
+1. Samsoniuk, Damian 25.10
+1. Wiergowski, Paweł 25.10
 -->
 
 1. [Franckiewicz, Tomasz](https://github.com/tfranckiewicz/nosql "neo4j private repo")
 1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo")
 1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j")
+1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
 1. [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
 1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
 
 ----
 
-1. Budka, Kamil
+1. Barański, Kamil
+1. Budka, Kamil 25.10
+1. Ćwikowski, Grzegorz
 1. Całus, Maciej
-1. Denejko, Wojciech
+1. Denejko, Wojciech 25.10
 1. Duchna, Przemysław
-1. Falęcki, Jacek
+1. Falęcki, Jacek 25.10
 1. Gonera, Ewa
-1. Hinz, Karol
-1. Michalski, Mateusz
-1. Perkowski, Maciej
+1. Hinz, Karol 25.10
+1. Perkowski, Maciej 25.10
 1. Szykuła, Artur
-1. Wasilewski, Tomasz
+1. Turzyński, Michał
+1. Wardzińska, Justyna
+1. Wasilewski, Tomasz 25.10
+1. Zielke, Adam
 1. Zduniak, Daniel
 
 
