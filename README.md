@@ -18,7 +18,6 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
        [Tytuł 3](link do repo z zadaniem **MapReduce**).
 
 <!--
-1. Basiak, Paweł 25.10
 1. Dunikowski, Jacek 25.10
 1. Mazur, Michał 25.10
 1. Miszczykowski, Mariusz 25.10
@@ -39,6 +38,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
 ----
 
+1. Basiak, Paweł
 1. Barański, Kamil
 1. Budka, Kamil 25.10
 1. Ćwikowski, Grzegorz
@@ -48,7 +48,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Falęcki, Jacek 25.10
 1. Gonera, Ewa
 1. Hinz, Karol 25.10
-1. Perkowski, Maciej 25.10
+1. Perkowski, Maciej
 1. Szykuła, Artur
 1. Turzyński, Michał
 1. Wardzińska, Justyna
