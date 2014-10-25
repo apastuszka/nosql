@@ -45,7 +45,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo")
 1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j")
 1. Michalski, Mateusz
-1. Olszer, Krzysztof
+1. [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
 1. Pastuszka, Anna
 1. Perkowski, Maciej
