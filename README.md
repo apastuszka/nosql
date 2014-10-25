@@ -11,7 +11,7 @@ Kilka przykładowych agregacji korzystających z danych
 
 Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 
-| zadanie | opis    | termin     |
+| zadanie |: opis   |: termin    |
 |---------|---------|------------|
 | 0.      | Neo4j   | 25.10.2014 |
 | 1 a-c   | EDA     | 15.10.2014 |
