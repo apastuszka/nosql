@@ -23,7 +23,7 @@ Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
     1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
-       [Tytuł 1](link do repo z zadaniem **EDA**),
+       [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
        [Tytuł 2](link do repo z zadaniem **Agregacje**),
        [Tytuł 3](link do repo z zadaniem **MapReduce**).
 
