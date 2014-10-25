@@ -9,13 +9,13 @@ Kilka przykładowych agregacji korzystających z danych
 ![Elasticsearch logo](images/elasticsearch-logo.png)
 
 
-Terminy rozliczania się z zadań:
+Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 
-| zadanie |         | termin     |
+| zadanie | opis    | termin     |
 |---------|---------|------------|
-| 1.      | Neo4j   | 25.10.2014 |
-| 2.      | EDA     | 15.10.2014 |
-| 3.      | GeoJSON | 29.10.2014 |
+| 0.      | Neo4j   | 25.10.2014 |
+| 1 a-c   | EDA     | 15.10.2014 |
+| 1 e.    | GeoJSON | 29.10.2014 |
 
 
 ### Neo4j, MongoDB i Elasticsearch
