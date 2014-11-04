@@ -60,7 +60,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Gonera, Ewa
 1. Hinz, Karol 25.10
 1. Perkowski, Maciej
-1. Szykuła, Artur
+1. [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
 1. Turzyński, Michał
 1. Wardzińska, Justyna
 1. Wasilewski, Tomasz 25.10
