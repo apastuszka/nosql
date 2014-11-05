@@ -14,8 +14,8 @@ Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 | zadanie | opis    | termin     |
 |---------|---------|------------|
 | 0.      | Neo4j   | 25.10.2014 |
-| 1 a-c   | EDA     | 15.10.2014 |
-| 1 d.    | GeoJSON | 29.10.2014 |
+| 1 a-c   | EDA     | 15.11.2014 |
+| 1 d.    | GeoJSON | 29.11.2014 |
 
 
 ### Neo4j, MongoDB i Elasticsearch
