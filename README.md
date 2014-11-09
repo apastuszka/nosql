@@ -52,7 +52,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Budka, Kamil 25.10
 1. Ćwikowski, Grzegorz 8.11
 1. Całus, Maciej 8.11
-1. Denejko, Wojciech 25.10 8.11
+1. [Denejko, Wojciech](https://github.com/wdenejko/neo4j "neo4j repo") 25.10 8.11
 1. Duchna, Przemysław
 1. Dunikowski, Jacek 25.10
 1. Falęcki, Jacek 25.10
