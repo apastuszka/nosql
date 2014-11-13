@@ -44,7 +44,8 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
 1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
-
+1. Michał Turzyński
+    - [Zadanie 1 a-c](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 ----
 
 1. Basiak, Paweł
