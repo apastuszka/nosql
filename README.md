@@ -41,6 +41,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") 8.11
     - [Zadanie 1](https://github.com/emassalska/mongoDb)
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
+    - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 1. [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
 1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
