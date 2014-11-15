@@ -35,9 +35,8 @@ i [WiredTiger](http://www.wiredtiger.com/).
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
     1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
-       [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
-       [Tytuł 2](link do repo z zadaniem **Agregacje**),
-       [Tytuł 3](link do repo z zadaniem **MapReduce**).
+       [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
+       [Tytuł 2](link do repo z zadaniem **Agregacje**).
 
 <!--
 1. Mazur, Michał 25.10
