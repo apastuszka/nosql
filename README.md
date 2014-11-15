@@ -11,11 +11,17 @@ Kilka przykładowych agregacji korzystających z danych
 
 Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 
-| zadanie | opis    | termin     |
-|---------|---------|------------|
-| 0.      | Neo4j   | 25.10.2014 |
-| 1 a-c   | EDA     | 15.11.2014 |
-| 1 d.    | GeoJSON | 29.11.2014 |
+| zadanie | opis                 | termin     |
+|---------|--------------------- |------------|
+| 0.      | Neo4j                | 25.10.2014 |
+| 1 a-c   | EDA                  | 15.11.2014 |
+| 1 d.    | GeoJSON              | 29.11.2014 |
+| 2.      | Aggregation Pipeline |  6.12.2014 |
+| 3*.     | MapReduce            | 10.01.2015 |
+
+\* – zadanie na egzamin; wersję z podłączonym monitorowaniem bazy
+[MMS](https://mms.mongodb.com/) ([MMS Cloud Docs](https://docs.mms.mongodb.com/)),
+można przygotować w zespole 2–3 osobowym.
 
 
 ### Neo4j, MongoDB i Elasticsearch
