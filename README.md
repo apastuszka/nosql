@@ -19,7 +19,7 @@ Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 | 2.      | Aggregation Pipeline |  6.12.2014 |
 | 3*.     | MapReduce            | 10.01.2015 |
 
-\* – zadanie na egzamin; wersję z podłączonym monitorowaniem bazy
+**\*** – zadanie na egzamin; wersję z podłączonym monitorowaniem bazy
 [MMS](https://mms.mongodb.com/) ([MMS Cloud Docs](https://docs.mms.mongodb.com/)),
 można przygotować w zespole 2–3 osobowym.
 
