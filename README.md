@@ -20,6 +20,9 @@ Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 
 ### Neo4j, MongoDB i Elasticsearch
 
+**Ważne:**
+
+
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
     1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
@@ -46,6 +49,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
     - [Zadanie 1](https://github.com/apajakowski/zad1)
 1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
+    - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
 1. Michał Turzyński
     - [Zadanie 1 a-c](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 
@@ -69,6 +73,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
     - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
 1. Turzyński, Michał
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
+    - [Zadanie 1](https://github.com/wardzinskaj/nosqlzal)
 1. Wasilewski, Tomasz 25.10
 1. Zielke, Adam
 1. Zduniak, Daniel
