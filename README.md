@@ -64,6 +64,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Paprocki, Adam
 1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
 1. [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
+    - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
 1. Turzyński, Michał
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
 1. Wasilewski, Tomasz 25.10
