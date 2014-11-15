@@ -32,7 +32,7 @@ dla tej wersji (lub późniejszej) MongoDB.
 W wynikach uwzględnić *storageEngines* MMAPv1
 i [WiredTiger](http://www.wiredtiger.com/).
 
-Dane należy wpisać według schematu (całość w jednym wierszu):
+Dane należy wpisać według schematu:
 
     1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
        [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
