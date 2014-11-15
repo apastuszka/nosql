@@ -26,9 +26,6 @@ można przygotować w zespole 2–3 osobowym.
 
 ### Neo4j, MongoDB i Elasticsearch
 
-**Ważne:**
-
-
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
     1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
@@ -83,6 +80,12 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 1. Wasilewski, Tomasz 25.10
 1. Zielke, Adam
 1. Zduniak, Daniel
+
+
+## Egzamin – 10.01, 17.01 2015
+
+MapReduce.
+
 
 
 ## Simple Rules for Reproducible Computations
