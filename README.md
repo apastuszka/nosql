@@ -28,7 +28,7 @@ można przygotować w zespole 2–3 osobowym.
 
 **[15.11.2014]** 12.11. pojawiła się wersja [2.8.0-rc0](http://docs.mongodb.org/manual/release-notes/2.8/).
 Do tabelek w rozwiązaniach zadań 1a, 1c, 2 dodać wiersze
-dla tej, lub późniejszej, wersji MongoDB.
+dla tej wersji (lub późniejszej) MongoDB.
 W wynikach uwzględnić *storageEngines* MMAPv1
 i [WiredTiger](http://www.wiredtiger.com/).
 
