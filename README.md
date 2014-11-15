@@ -93,6 +93,15 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 MapReduce (projekt indywidualny) albo
 MapReduce+MMS (projekt zespołowy).
 
+Dane należy wpisać według schematu (całość w jednym wierszu):
+
+    1. Nazwisko, Imię. [Tytuł](link do repo z zadaniem 3).
+
+albo
+
+    1. Nazwa zespołu. [Tytuł](link do repo z zadaniem 3).
+
+TODO: dodać listę.
 
 
 ## Simple Rules for Reproducible Computations
