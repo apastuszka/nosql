@@ -85,8 +85,8 @@ Dane należy wpisać według schematu:
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
     - [Zadanie 1](https://github.com/wardzinskaj/nosqlzal)
 1. Wasilewski, Tomasz 25.10
-1. Zielke, Adam
 1. Zduniak, Daniel
+1. Zielke, Adam
 
 
 ## Egzamin – 10.01, 17.01 2015
@@ -102,7 +102,24 @@ albo
 
     1. Nazwa zespołu. [Tytuł](link do repo z zadaniem 3).
 
-TODO: dodać listę.
+1. Hinz, Karol
+1. Kalarus, Marcin
+1. Massalska, Emilia
+1. Michalski, Mateusz
+1. Miszczykowski, Mariusz
+1. Olszer, Krzysztof
+1. Pająkowski, Adrian
+1. Paprocki, Adam
+1. Pastuszka, Anna
+1. Perkowski, Maciej
+1. Rawicki, Wojciech
+1. Szykuła, Artur
+1. Turzyński, Michał
+1. Wardzińska, Justyna
+1. Wasilewski, Tomasz
+1. Wołek, Łukasz
+1. Zduniak, Daniel
+1. Zielke, Adam
 
 
 ## Simple Rules for Reproducible Computations
