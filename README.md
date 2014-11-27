@@ -50,6 +50,7 @@ Dane należy wpisać według schematu:
     - [Zadanie 1](https://github.com/tfranckiewicz/nosql/tree/zadanie1)
     - [Zadanie 2](https://github.com/tfranckiewicz/nosql/tree/zadanie2)
 1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo") 8.11
+    - [Zadanie 1](https://github.com/mkalarus/mongo_zad1) 
 1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") 8.11
     - [Zadanie 1](https://github.com/emassalska/mongoDb)
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
