@@ -62,7 +62,7 @@ Dane należy wpisać według schematu:
 1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
     - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
 1. Michał Turzyński
-    - [Zadanie 1 a-c](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
+    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 
 ----
 
