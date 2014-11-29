@@ -48,7 +48,9 @@ Dane należy wpisać według schematu:
 
 1. [Franckiewicz, Tomasz](https://github.com/tfranckiewicz/nosql "neo4j private repo")
     - [Zadanie 1](https://github.com/tfranckiewicz/nosql/tree/zadanie1)
+    - [Zadanie 2](https://github.com/tfranckiewicz/nosql/tree/zadanie2)
 1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo") 8.11
+    - [Zadanie 1](https://github.com/mkalarus/mongo_zad1) 
 1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") 8.11
     - [Zadanie 1](https://github.com/emassalska/mongoDb)
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
@@ -60,7 +62,7 @@ Dane należy wpisać według schematu:
 1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
     - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
 1. Michał Turzyński
-    - [Zadanie 1 a-c](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
+    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 
 ----
 
@@ -70,9 +72,12 @@ Dane należy wpisać według schematu:
 1. Ćwikowski, Grzegorz 8.11
 1. Całus, Maciej 8.11
 1. [Denejko, Wojciech](https://github.com/wdenejko/neo4j "neo4j repo") 25.10 8.11
+    - [Zadanie 1](https://bitbucket.org/wdenejko/zadanie-1/overview)
 1. Duchna, Przemysław
-1. Dunikowski, Jacek 25.10
-1. Falęcki, Jacek 25.10
+1. [Dunikowski, Jacek] 25.10
+    - [Zadanie 1](https://github.com/jaca22/NOSQL)
+1. [Falęcki, Jacek] 25.10
+2. - [Zadanie 1](https://github.com/jfalecki/projekty)
 1. Gonera, Ewa
 1. Hinz, Karol 25.10 8.11
 1. Miszczykowski, Mariusz 25.10
@@ -84,8 +89,8 @@ Dane należy wpisać według schematu:
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
     - [Zadanie 1](https://github.com/wardzinskaj/nosqlzal)
 1. Wasilewski, Tomasz 25.10
-1. Zielke, Adam
 1. Zduniak, Daniel
+1. Zielke, Adam
 
 
 ## Egzamin – 10.01, 17.01 2015
@@ -101,7 +106,24 @@ albo
 
     1. Nazwa zespołu. [Tytuł](link do repo z zadaniem 3).
 
-TODO: dodać listę.
+1. Hinz, Karol
+1. Kalarus, Marcin
+1. Massalska, Emilia
+1. Michalski, Mateusz
+1. Miszczykowski, Mariusz
+1. Olszer, Krzysztof
+1. Pająkowski, Adrian
+1. Paprocki, Adam
+1. Pastuszka, Anna
+1. Perkowski, Maciej
+1. Rawicki, Wojciech
+1. Szykuła, Artur
+1. Turzyński, Michał
+1. Wardzińska, Justyna
+1. Wasilewski, Tomasz
+1. Wołek, Łukasz
+1. Zduniak, Daniel
+1. Zielke, Adam
 
 
 ## Simple Rules for Reproducible Computations
@@ -147,3 +169,4 @@ Dane pochodzą z lat 2007–2012 – tylko filmy i przedstawienia TV.
 Przykładowe aggregacje: ilu jest różnych użytkowników
 w danych? jakie jest 10 najpopularniejszych filmów i przedstawień TV?
 ile jest różnych akcji?
+1. [GeoNames](http://www.geonames.org/export/) i [Postal Codes](http://www.geonames.org/postal-codes/).
