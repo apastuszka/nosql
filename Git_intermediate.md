@@ -6,7 +6,7 @@
 * Bert Belder, [Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
 * Chris Wanstrath, [Hub makes git better with GitHub](http://defunkt.io/hub/)
 * Seth Robertson, [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
-* [Going back in time to split older commits](http://blog.thoughtram.io/posts/going-back-in-time-to-split-older-commits/) –
+* [Going back in time to split older commits](http://blog.thoughtram.io/git/2014/08/18/going-back-in-time-to-split-older-commits.html) –
   na blogu „ThoughtRAM - extend your memory”
 
 
