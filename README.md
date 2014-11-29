@@ -95,7 +95,7 @@ Dane należy wpisać według schematu:
 
 ## Egzamin – 10.01, 17.01 2015
 
-[MapReduce], Zadanie 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
+[MapReduce, Zadanie 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
 (projekt indywidualny) albo MapReduce+[MMS](https://mms.mongodb.com/) (projekt zespołowy).
 
 Zamiast bazy MongoDB, można przygotować przykłady lub wtyczki lub agregacje
