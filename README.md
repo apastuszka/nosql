@@ -75,7 +75,8 @@ Dane należy wpisać według schematu:
 1. Duchna, Przemysław
 1. [Dunikowski, Jacek] 25.10
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
-1. Falęcki, Jacek 25.10
+1. [Falęcki, Jacek] 25.10
+2. - [Zadanie 1](https://github.com/jfalecki/projekty)
 1. Gonera, Ewa
 1. Hinz, Karol 25.10 8.11
 1. Miszczykowski, Mariusz 25.10
