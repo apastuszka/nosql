@@ -50,7 +50,7 @@ Dane należy wpisać według schematu:
     - [Zadanie 1](https://github.com/tfranckiewicz/nosql/tree/zadanie1)
     - [Zadanie 2](https://github.com/tfranckiewicz/nosql/tree/zadanie2)
 1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo") 8.11
-    - [Zadanie 1](https://github.com/mkalarus/mongo_zad1) 
+    - [Zadanie 1](https://github.com/mkalarus/mongo_zad1)
 1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") 8.11
     - [Zadanie 1](https://github.com/emassalska/mongoDb)
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
@@ -95,8 +95,15 @@ Dane należy wpisać według schematu:
 
 ## Egzamin – 10.01, 17.01 2015
 
-MapReduce (projekt indywidualny) albo
-MapReduce+MMS (projekt zespołowy).
+[MapReduce], Zadanie 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
+(projekt indywidualny) albo MapReduce+[MMS](https://mms.mongodb.com/) (projekt zespołowy).
+
+Zamiast bazy MongoDB, można przygotować przykłady lub wtyczki lub agregacje
+dla bazy [Elasticsearch](http://www.elasticsearch.org/overview/).
+Na początek należy się przyjrzeć narzędziu
+[Kibana](http://www.elasticsearch.org/overview/kibana), następnie poczytać
+o [wtyczkach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/modules-plugins.html)
+a na koniec o [agregacjach](http://www.elasticsearch.org/guide/en/elasticsearch/reference/current/search-aggregations.html).
 
 Dane należy wpisać według schematu (całość w jednym wierszu):
 
