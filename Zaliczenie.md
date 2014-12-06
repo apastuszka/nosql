@@ -33,3 +33,5 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
     - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
 1. [1WG 2-] [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
     - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
+1. [1G, 2-] [Budka, Kamil](https://github.com/kbudka/Neo4J) / 25.10
+    - [Zadanie 1, 2](https://github.com/kbudka)

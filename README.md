@@ -58,7 +58,6 @@ Dane należy wpisać według schematu:
 
 1. Basiak, Paweł
 1. Barański, Kamil 8.11
-1. Budka, Kamil 25.10
 1. Ćwikowski, Grzegorz 8.11
 1. Całus, Maciej 8.11
 1. Duchna, Przemysław
