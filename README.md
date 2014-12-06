@@ -38,13 +38,7 @@ Dane należy wpisać według schematu:
        [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
        [Tytuł 2](link do repo z zadaniem **Agregacje**).
 
-<!--
-1. Mazur, Michał 25.10
-1. Mrotek, Remigiusz 25.10
-1. Rawicki, Wojciech 25.10
-1. Samsoniuk, Damian 25.10
-1. Wiergowski, Paweł 25.10
--->
+### Niezaliczone laboratorium
 
 1. Dunikowski, Jacek / 25.10
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
@@ -85,6 +79,14 @@ Dane należy wpisać według schematu:
 1. Wasilewski, Tomasz 25.10
 1. Zduniak, Daniel
 1. Zielke, Adam
+
+<!--
+1. Mazur, Michał 25.10
+1. Mrotek, Remigiusz 25.10
+1. Rawicki, Wojciech 25.10
+1. Samsoniuk, Damian 25.10
+1. Wiergowski, Paweł 25.10
+-->
 
 
 ## Egzamin – 10.01, 17.01 2015
