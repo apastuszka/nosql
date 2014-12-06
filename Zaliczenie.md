@@ -27,5 +27,9 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
     - [Zadanie 1](https://bitbucket.org/wdenejko/zadanie-1/overview)
 1. [1MWG 2-] [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo") / 8.11
     - [Zadanie 1](https://github.com/mkalarus/mongo_zad1)
-1. [1MWG] [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
+1. [1MWG 2-] [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
     - [Zadanie 1](https://bitbucket.org/kolszer/mongodb)
+1. [1WG 2-] [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
+    - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
+1. [1WG 2-] [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
+    - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)

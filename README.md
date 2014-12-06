@@ -44,19 +44,15 @@ Dane należy wpisać według schematu:
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
 1. Falęcki, Jacek / 25.10
    - [Zadanie 1](https://github.com/jfalecki/projekty)
-1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo") // niedziałający link
-    - [Zadanie 1](https://github.com/matismatis93/MongoDB)
+1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
+   - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
-    - [Zadanie 1](https://github.com/apajakowski/zad1)
-1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
-    - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
+   - [Zadanie 1](https://github.com/apajakowski/zad1)  // niedziałający link
 1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
-1. [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
-    - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
 1. Michał Turzyński
-    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
+   - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
-    - [Zadanie 1](https://github.com/wardzinskaj/nosqlzal)
+   - [Zadanie 1](https://github.com/wardzinskaj/nosqlzal)
 
 ----
 
