@@ -52,9 +52,6 @@ Dane należy wpisać według schematu:
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
 1. Falęcki, Jacek / 25.10
    - [Zadanie 1](https://github.com/jfalecki/projekty)
-1. [Franckiewicz, Tomasz](https://github.com/tfranckiewicz/nosql "neo4j private repo")
-    - [Zadanie 1](https://github.com/tfranckiewicz/nosql/tree/zadanie1)
-    - [Zadanie 2](https://github.com/tfranckiewicz/nosql/tree/zadanie2)
 1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo") / 8.11
     - [Zadanie 1](https://github.com/mkalarus/mongo_zad1)
 1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") / 8.11
