@@ -14,7 +14,11 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
     - [Zadanie 1](https://github.com/tfranckiewicz/nosql/tree/zadanie1)
     - [Zadanie 2](https://github.com/tfranckiewicz/nosql/tree/zadanie2)
 
+
 ### B
+
+1. [2-] [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") / 8.11
+    - [Zadanie 1](https://github.com/emassalska/mongoDb)
 
 
 ### C

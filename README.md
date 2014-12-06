@@ -44,8 +44,6 @@ Dane należy wpisać według schematu:
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
 1. Falęcki, Jacek / 25.10
    - [Zadanie 1](https://github.com/jfalecki/projekty)
-1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") / 8.11
-    - [Zadanie 1](https://github.com/emassalska/mongoDb)
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
     - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 1. [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
