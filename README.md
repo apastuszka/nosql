@@ -83,6 +83,9 @@ Dane należy wpisać według schematu:
 [MapReduce, Zadanie 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
 (projekt indywidualny) albo MapReduce+[MMS](https://mms.mongodb.com/) (projekt zespołowy).
 
+Oczwiście, że funkcjie map i reduce opisane w zadaniu 3 można zastąpić
+swoimi funkcjami map i reduce i użyć ich do obliczeń na swoich danych.
+
 Zamiast bazy MongoDB, można przygotować przykłady lub wtyczki lub agregacje
 dla bazy [Elasticsearch](http://www.elasticsearch.org/overview/).
 Na początek należy się przyjrzeć narzędziu
