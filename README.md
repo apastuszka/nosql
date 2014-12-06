@@ -119,6 +119,7 @@ albo
 1. Wołek, Łukasz
 1. Zduniak, Daniel
 1. Zielke, Adam
+1. Denejko, Wojciech
 
 
 ## Simple Rules for Reproducible Computations
