@@ -80,6 +80,8 @@ Dane należy wpisać według schematu:
 
 ## Egzamin – 10.01, 17.01 2015
 
+> A good demo is disproportionately valuable in big data science.
+
 [MapReduce, Zadanie 3](http://wbzyl.inf.ug.edu.pl/nosql/zadania)
 (projekt indywidualny) albo MapReduce+[MMS](https://mms.mongodb.com/) (projekt zespołowy).
 
