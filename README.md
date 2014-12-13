@@ -52,7 +52,7 @@ Dane należy wpisać według schematu:
 1. Michał Turzyński
    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
-   - [Zadanie 1](https://github.com/wardzinskaj/nosqlzal)
+   - [Zadanie 1](https://github.com/wardzinskaj/geojson)
 
 ----
 
