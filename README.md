@@ -47,7 +47,7 @@ Dane należy wpisać według schematu:
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
    - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
-   - [Zadanie 1](https://github.com/apajakowski/zad1)  // niedziałający link
+   - [Zadanie 1](https://github.com/apajakowski/zad1)
 1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
 1. Michał Turzyński
    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
