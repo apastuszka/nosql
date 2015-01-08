@@ -19,7 +19,7 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 
 1. [2-] [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") / 8.11
     - [Zadanie 1](https://github.com/emassalska/mongoDb)
-
+    - [Zadanie 2](https://github.com/emassalska/agregacje)
 
 ### C
 
