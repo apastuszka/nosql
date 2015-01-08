@@ -123,7 +123,7 @@ albo
 1. Zduniak, Daniel
 1. Zielke, Adam
 1. Denejko, Wojciech
-
+1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
 
 ## Simple Rules for Reproducible Computations
 
