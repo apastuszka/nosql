@@ -114,7 +114,7 @@ albo
 1. Wołek, Łukasz
 1. Zduniak, Daniel
 1. Zielke, Adam
-1. Denejko, Wojciech
+1. Denejko, Wojciech [Zadanie3](https://bitbucket.org/wdenejko/zadanie3/overview)
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
 
 ## Simple Rules for Reproducible Computations
