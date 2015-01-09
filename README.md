@@ -59,24 +59,14 @@ Dane należy wpisać według schematu:
 
 1. Basiak, Paweł
 1. Barański, Kamil 8.11
-1. Ćwikowski, Grzegorz 8.11
 1. Całus, Maciej 8.11
 1. Duchna, Przemysław
 1. Gonera, Ewa
-1. Hinz, Karol 25.10 8.11
 1. Miszczykowski, Mariusz 25.10
-1. Paprocki, Adam
+1. Rawicki, Wojciech 25.10
 1. Wasilewski, Tomasz 25.10
 1. Zduniak, Daniel
 1. Zielke, Adam
-
-<!--
-1. Mazur, Michał 25.10
-1. Mrotek, Remigiusz 25.10
-1. Rawicki, Wojciech 25.10
-1. Samsoniuk, Damian 25.10
-1. Wiergowski, Paweł 25.10
--->
 
 
 ## Egzamin – 10.01, 17.01 2015
