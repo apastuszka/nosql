@@ -62,6 +62,8 @@ Dane należy wpisać według schematu:
 1. Całus, Maciej 8.11
 1. Duchna, Przemysław
 1. Gonera, Ewa
+1. Hinz, Karol  
+     - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
 1. Miszczykowski, Mariusz 25.10
 1. Rawicki, Wojciech 25.10
 1. Wasilewski, Tomasz 25.10
