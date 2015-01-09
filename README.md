@@ -104,6 +104,7 @@ albo
 
     1. Nazwa zespołu. [Tytuł](link do repo z zadaniem 3).
 
+1. Franckiewicz, Tomasz [Zadanie3](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Hinz, Karol
 1. Kalarus, Marcin
 1. Massalska, Emilia
