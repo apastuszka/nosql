@@ -50,6 +50,8 @@ Dane należy wpisać według schematu:
    - [Zadanie 1](https://github.com/apajakowski/zad1)
    - [Zadanie 2](https://github.com/apajakowski/zad2)
 1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
+2.  - [Zadanie 1](https://github.com/mperkowski/Mongo)
+   -  [Zadanie 2](https://github.com/mperkowski/AggregationPipeline)
 1. Michał Turzyński
    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
