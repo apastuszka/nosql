@@ -72,7 +72,7 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 1. Całus, Maciej
 1. Ćwikowski, Grzegorz
 1. Duchna, Przemysław
-1. Gonera, Ewa
+1. [Gonera, Ewa]. [Zadanie 1 i 2?](https://github.com/Estee/NoSQL/blob/master/README.md)
 1. Mazur, Michał
 1. Miszczykowski, Mariusz
 1. Rawicki, Wojciech
