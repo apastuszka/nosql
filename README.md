@@ -107,7 +107,7 @@ albo
 1. Miszczykowski, Mariusz
 1. Olszer, Krzysztof [Zadanie3](https://bitbucket.org/kolszer/mapreduce/overview)
 1. Pająkowski, Adrian
-1. Paprocki, Adam
+1. Paprocki, Adam [Zadanie3] (https://github.com/paprot/zad3nosql)
 1. Pastuszka, Anna [Zadanie3](https://github.com/apastuszka/Zadanie3)
 1. Perkowski, Maciej
 1. Rawicki, Wojciech
