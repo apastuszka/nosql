@@ -72,7 +72,6 @@ Dane należy wpisać według schematu:
 1. Gonera, Ewa
 1. Miszczykowski, Mariusz 25.10
 1. Rawicki, Wojciech 25.10
-1. Wasilewski, Tomasz 25.10
 1. Zielke, Adam
 
 

@@ -22,6 +22,8 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 
 ### C+
 
+1. [Budka, Kamil](https://github.com/kbudka/Neo4J)
+    - [Zadanie 1, 2](https://github.com/kbudka)
 1. [Denejko, Wojciech](https://github.com/wdenejko/neo4j "neo4j repo")
     - [Zadanie 1](https://bitbucket.org/wdenejko/zadanie-1/overview)
     - [Zadanie 2](https://bitbucket.org/wdenejko/zadanie2/overview)
@@ -36,5 +38,3 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 1. [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
     - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
     - [Zadanie 2](https://github.com/aszykula/Neo4j/tree/master/zadanie2)
-1. [Budka, Kamil](https://github.com/kbudka/Neo4J)
-    - [Zadanie 1, 2](https://github.com/kbudka)
