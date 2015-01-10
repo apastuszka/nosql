@@ -38,43 +38,25 @@ Dane należy wpisać według schematu:
        [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
        [Tytuł 2](link do repo z zadaniem **Agregacje**).
 
-### Zaliczone (zadania oddane po terminie)
-
-1. Dunikowski, Jacek / 25.10
-    - [Zadanie 1](https://github.com/jaca22/NOSQL)
-1. Falęcki, Jacek / 25.10
-   - [Zadanie 1 i 2](https://github.com/jfalecki/projekty)
-1. Paprocki, Adam.
-   - [Zadanie 1 i 2](/)
-1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
-   - [Zadanie 1](https://github.com/apajakowski/zad1)
-   - [Zadanie 2](https://github.com/apajakowski/zad2)
-1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
-   - [Zadanie 1](https://github.com/mperkowski/Mongo)
-   - [Zadanie 2](https://github.com/mperkowski/AggregationPipeline)
-1. Michał Turzyński
-   - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
-   - [Zadania (mongo)](https://bitbucket.org/michal-at-bb/mongo_zadania)
-1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
-   - [Zadanie 1](https://github.com/wardzinskaj/geojson)
-1. Zduniak, Daniel
-   - [Zadanie 1](https://github.com/dzduniak/NoSQL)
-
 ----
-
-1. Hinz, Karol
-   - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
-1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
-   - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 
 1. Basiak, Paweł
 1. Barański, Kamil 8.11
 1. Całus, Maciej 8.11
+1. Ćwikowski, Grzegorz
 1. Duchna, Przemysław
 1. Gonera, Ewa
+1. Hinz, Karol
+   - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
+1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
+   - [Zadanie 1](https://github.com/matismatis93/MongoDB)
+1. Mazur, Michał
 1. Miszczykowski, Mariusz 25.10
 1. Rawicki, Wojciech 25.10
 1. Zielke, Adam
+
+
+
 
 
 ## Egzamin – 10.01, 17.01 2015
@@ -102,6 +84,7 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 Lista:
 
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
+1. Ćwikowski, Grzegorz
 1. Denejko, Wojciech. [Zadanie 3](https://bitbucket.org/wdenejko/zadanie3/overview)
 1. Franckiewicz, Tomasz. [Zadanie 3](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)

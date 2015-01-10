@@ -38,3 +38,25 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 1. [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
     - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
     - [Zadanie 2](https://github.com/aszykula/Neo4j/tree/master/zadanie2)
+
+### C (po terminie)
+
+1. Dunikowski, Jacek / 25.10
+    - [Zadanie 1](https://github.com/jaca22/NOSQL)
+1. Falęcki, Jacek / 25.10
+   - [Zadanie 1 i 2](https://github.com/jfalecki/projekty)
+1. Paprocki, Adam.
+   - [Zadanie 1 i 2](/)
+1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
+   - [Zadanie 1](https://github.com/apajakowski/zad1)
+   - [Zadanie 2](https://github.com/apajakowski/zad2)
+1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
+   - [Zadanie 1](https://github.com/mperkowski/Mongo)
+   - [Zadanie 2](https://github.com/mperkowski/AggregationPipeline)
+1. Michał Turzyński
+   - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
+   - [Zadania (mongo)](https://bitbucket.org/michal-at-bb/mongo_zadania)
+1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
+   - [Zadanie 1](https://github.com/wardzinskaj/geojson)
+1. Zduniak, Daniel
+   - [Zadanie 1](https://github.com/dzduniak/NoSQL)
