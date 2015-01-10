@@ -43,19 +43,24 @@ Dane należy wpisać według schematu:
 1. Dunikowski, Jacek / 25.10
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
 1. Falęcki, Jacek / 25.10
-   - [Zadanie 1](https://github.com/jfalecki/projekty)
+   - [Zadanie 1 i 2](https://github.com/jfalecki/projekty)
+1. Hinz, Karol
+   - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
 1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
    - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
    - [Zadanie 1](https://github.com/apajakowski/zad1)
    - [Zadanie 2](https://github.com/apajakowski/zad2)
 1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
-2.  - [Zadanie 1](https://github.com/mperkowski/Mongo)
-   -  [Zadanie 2](https://github.com/mperkowski/AggregationPipeline)
+   - [Zadanie 1](https://github.com/mperkowski/Mongo)
+   - [Zadanie 2](https://github.com/mperkowski/AggregationPipeline)
 1. Michał Turzyński
    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
+   - [Zadania (mongo)](https://bitbucket.org/michal-at-bb/mongo_zadania
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
    - [Zadanie 1](https://github.com/wardzinskaj/geojson)
+1. Zduniak, Daniel
+   - [Zadanie 1](https://github.com/dzduniak/NoSQL)
 
 ----
 
@@ -64,13 +69,9 @@ Dane należy wpisać według schematu:
 1. Całus, Maciej 8.11
 1. Duchna, Przemysław
 1. Gonera, Ewa
-1. Hinz, Karol  
-     - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
 1. Miszczykowski, Mariusz 25.10
 1. Rawicki, Wojciech 25.10
 1. Wasilewski, Tomasz 25.10
-1. Zduniak, Daniel
-   - [Zadanie 1](https://github.com/dzduniak/NoSQL)
 1. Zielke, Adam
 
 
@@ -96,20 +97,22 @@ Dane należy wpisać według schematu (całość w jednym wierszu):
 
     1. Nazwisko, Imię. [Tytuł](link do repo z zadaniem 3).
 
-albo
+Lista:
 
-    1. Nazwa zespołu. [Tytuł](link do repo z zadaniem 3).
-
-1. Franckiewicz, Tomasz [Zadanie3](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
+1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
+1. Denejko, Wojciech. [Zadanie 3](https://bitbucket.org/wdenejko/zadanie3/overview)
+1. Franckiewicz, Tomasz. [Zadanie 3](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
+1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
 1. Hinz, Karol
 1. Kalarus, Marcin
 1. Massalska, Emilia
+1. Mazur, Michał. [Zadanie 3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
 1. Michalski, Mateusz
 1. Miszczykowski, Mariusz
-1. Olszer, Krzysztof [Zadanie3](https://bitbucket.org/kolszer/mapreduce/overview)
-1. Pająkowski, Adrian
-1. Paprocki, Adam [Zadanie3] (https://github.com/paprot/zad3nosql)
-1. Pastuszka, Anna [Zadanie3](https://github.com/apastuszka/Zadanie3)
+1. Olszer, Krzysztof. [Zadanie 3](https://bitbucket.org/kolszer/mapreduce/overview)
+1. Pająkowski, Adrian. [Zadanie 3](https://github.com/apajakowski/zad3)
+1. Paprocki, Adam. [Zadanie 3](https://github.com/paprot/zad3nosql)
+1. Pastuszka, Anna. [Zadanie 3](https://github.com/apastuszka/Zadanie3)
 1. Perkowski, Maciej
 1. Rawicki, Wojciech
 1. Szykuła, Artur
@@ -117,11 +120,9 @@ albo
 1. Wardzińska, Justyna
 1. Wasilewski, Tomasz
 1. Wołek, Łukasz
-1. Zduniak, Daniel [Zadanie3](https://github.com/dzduniak/NoSQL3)
+1. Zduniak, Daniel. [Zadanie 3](https://github.com/dzduniak/NoSQL3)
 1. Zielke, Adam
-1. Denejko, Wojciech [Zadanie3](https://bitbucket.org/wdenejko/zadanie3/overview)
-1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
-1. Mazur, Michał [Zadanie3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
+
 
 ## Simple Rules for Reproducible Computations
 
