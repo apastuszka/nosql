@@ -75,7 +75,7 @@ Lista:
 1. Mazur, Michał. [Zadanie 3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
 1. Michalski, Mateusz
 1. Miszczykowski, Mariusz
-1. Olszer, Krzysztof. [Zadanie 3](https://bitbucket.org/kolszer/mapreduce/overview)
+1. Olszer, Krzysztof. [Anagramy i wikipedia](https://bitbucket.org/kolszer/mapreduce/overview)
 1. Pająkowski, Adrian. [Zadanie 3](https://github.com/apajakowski/zad3)
 1. Paprocki, Adam. [Zadanie 3](https://github.com/paprot/zad3nosql)
 1. Pastuszka, Anna. [Zadanie 3](https://github.com/apastuszka/Zadanie3)
