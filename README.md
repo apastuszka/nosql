@@ -69,6 +69,7 @@ Lista:
 1. Duchna, Przemysław
 1. Franckiewicz, Tomasz. [Zadanie 3](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
+1. Gonera, Ewa
 1. Hinz, Karol
 1. Kalarus, Marcin
 1. Massalska, Emilia
