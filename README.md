@@ -70,6 +70,7 @@ Dane należy wpisać według schematu:
 1. Rawicki, Wojciech 25.10
 1. Wasilewski, Tomasz 25.10
 1. Zduniak, Daniel
+   - [Zadanie 1](https://github.com/dzduniak/NoSQL)
 1. Zielke, Adam
 
 
@@ -116,7 +117,7 @@ albo
 1. Wardzińska, Justyna
 1. Wasilewski, Tomasz
 1. Wołek, Łukasz
-1. Zduniak, Daniel
+1. Zduniak, Daniel [Zadanie3](https://github.com/dzduniak/NoSQL3)
 1. Zielke, Adam
 1. Denejko, Wojciech [Zadanie3](https://bitbucket.org/wdenejko/zadanie3/overview)
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
