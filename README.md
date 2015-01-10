@@ -66,6 +66,7 @@ Lista:
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
 1. Ćwikowski, Grzegorz
 1. Denejko, Wojciech. [Zadanie 3](https://bitbucket.org/wdenejko/zadanie3/overview)
+1. Duchna, Przemysław
 1. Franckiewicz, Tomasz. [Zadanie 3](https://github.com/tfranckiewicz/nosql/tree/zadanie3)
 1. Falęcki, Jacek. [Zadanie 3](https://github.com/jfalecki/projekty)
 1. Hinz, Karol
