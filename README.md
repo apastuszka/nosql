@@ -32,31 +32,11 @@ dla tej wersji (lub późniejszej) MongoDB.
 W wynikach uwzględnić *storageEngines* MMAPv1
 i [WiredTiger](http://www.wiredtiger.com/).
 
-Dane należy wpisać według schematu:
+Dane należy wpisać w pliku [Zaliczenie.md](Zaliczenie.md) według schematu:
 
     1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
        [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
        [Tytuł 2](link do repo z zadaniem **Agregacje**).
-
-----
-
-1. Basiak, Paweł
-1. Barański, Kamil 8.11
-1. Całus, Maciej 8.11
-1. Ćwikowski, Grzegorz
-1. Duchna, Przemysław
-1. Gonera, Ewa
-1. Hinz, Karol
-   - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
-1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
-   - [Zadanie 1](https://github.com/matismatis93/MongoDB)
-1. Mazur, Michał
-1. Miszczykowski, Mariusz 25.10
-1. Rawicki, Wojciech 25.10
-1. Zielke, Adam
-
-
-
 
 
 ## Egzamin – 10.01, 17.01 2015

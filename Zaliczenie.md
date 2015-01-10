@@ -60,3 +60,20 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
    - [Zadanie 1](https://github.com/wardzinskaj/geojson)
 1. Zduniak, Daniel
    - [Zadanie 1](https://github.com/dzduniak/NoSQL)
+
+### D
+
+1. Barański, Kamil
+1. Basiak, Paweł
+1. Całus, Maciej
+1. Ćwikowski, Grzegorz
+1. Duchna, Przemysław
+1. Gonera, Ewa
+1. Hinz, Karol
+   - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
+1. Mazur, Michał
+1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
+   - [Zadanie 1](https://github.com/matismatis93/MongoDB)
+1. Miszczykowski, Mariusz
+1. Rawicki, Wojciech
+1. Zielke, Adam
