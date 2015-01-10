@@ -16,25 +16,25 @@ Legenda: [1M, 2-] oznacza, że zadanie 1. ma usterkę M i brak zadania 2:
 
 ### B
 
-1. [2-] [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j") / 8.11
+1. [Massalska, Emilia](https://github.com/emassalska/neo4j "neo4j")
     - [Zadanie 1](https://github.com/emassalska/mongoDb)
     - [Zadanie 2](https://github.com/emassalska/agregacje)
 
 ### C+
 
-1. [2-] [Denejko, Wojciech](https://github.com/wdenejko/neo4j "neo4j repo") / 25.10 8.11
+1. [Denejko, Wojciech](https://github.com/wdenejko/neo4j "neo4j repo")
     - [Zadanie 1](https://bitbucket.org/wdenejko/zadanie-1/overview)
     - [Zadanie 2](https://bitbucket.org/wdenejko/zadanie2/overview)
-1. [1MWG 2-] [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo") / 8.11
+1. [Kalarus, Marcin](https://github.com/mkalarus/Neo4j-zal "neo4j repo")
     - [Zadanie 1](https://github.com/mkalarus/mongo_zad1)
     - [Zadanie 2](https://github.com/mkalarus/mongo_zad2)
-1. [1MWG 2-] [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
+1. [Olszer, Krzysztof](https://github.com/kolszer/Neo4j)
     - [Zadanie 1](https://bitbucket.org/kolszer/mongodb)
     - [Zadanie 2](https://bitbucket.org/kolszer/aggregationmongodb)
-1. [1WG 2-] [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
+1. [Pastuszka, Anna](https://github.com/apastuszka/Neo4j "Baza Neo4j")
     - [Zadanie_1](https://github.com/apastuszka/EDA-Mongo)
-1. [1WG 2-] [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
+1. [Szykuła, Artur](https://github.com/aszykula/Neo4j "neo4j private repo")
     - [Zadanie 1 a-c](https://github.com/aszykula/Neo4j/tree/master/zadanie1)
     - [Zadanie 2](https://github.com/aszykula/Neo4j/tree/master/zadanie2)
-1. [1G, 2-] [Budka, Kamil](https://github.com/kbudka/Neo4J) / 25.10
+1. [Budka, Kamil](https://github.com/kbudka/Neo4J)
     - [Zadanie 1, 2](https://github.com/kbudka)
