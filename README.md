@@ -116,6 +116,7 @@ albo
 1. Zielke, Adam
 1. Denejko, Wojciech
 1. Budka, Kamil. [Elasticsearch](https://bitbucket.org/superUnknown/elasticsearch/overview)
+1. Mazur, Michał [Zadanie3](https://github.com/MajkelMatusaf/Zadanie3NoSql)
 
 ## Simple Rules for Reproducible Computations
 
