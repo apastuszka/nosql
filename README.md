@@ -44,10 +44,6 @@ Dane należy wpisać według schematu:
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
 1. Falęcki, Jacek / 25.10
    - [Zadanie 1 i 2](https://github.com/jfalecki/projekty)
-1. Hinz, Karol
-   - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
-1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
-   - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
    - [Zadanie 1](https://github.com/apajakowski/zad1)
    - [Zadanie 2](https://github.com/apajakowski/zad2)
@@ -63,6 +59,11 @@ Dane należy wpisać według schematu:
    - [Zadanie 1](https://github.com/dzduniak/NoSQL)
 
 ----
+
+1. Hinz, Karol
+   - [Zadanie 1 a-d](https://github.com/khinz/MongoDB)
+1. [Michalski, Mateusz](https://github.com/matismatis93/neo4j "neo4j private repo")
+   - [Zadanie 1](https://github.com/matismatis93/MongoDB)
 
 1. Basiak, Paweł
 1. Barański, Kamil 8.11
