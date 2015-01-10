@@ -38,7 +38,7 @@ Dane należy wpisać według schematu:
        [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
        [Tytuł 2](link do repo z zadaniem **Agregacje**).
 
-### Niezaliczone laboratorium
+### Zaliczone (zadania oddane po terminie)
 
 1. Dunikowski, Jacek / 25.10
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
@@ -56,7 +56,7 @@ Dane należy wpisać według schematu:
    - [Zadanie 2](https://github.com/mperkowski/AggregationPipeline)
 1. Michał Turzyński
    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
-   - [Zadania (mongo)](https://bitbucket.org/michal-at-bb/mongo_zadania
+   - [Zadania (mongo)](https://bitbucket.org/michal-at-bb/mongo_zadania)
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
    - [Zadanie 1](https://github.com/wardzinskaj/geojson)
 1. Zduniak, Daniel
