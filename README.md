@@ -44,6 +44,8 @@ Dane należy wpisać według schematu:
     - [Zadanie 1](https://github.com/jaca22/NOSQL)
 1. Falęcki, Jacek / 25.10
    - [Zadanie 1 i 2](https://github.com/jfalecki/projekty)
+1. Paprocki, Adam.
+   - [Zadanie 1 i 2](/)
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
    - [Zadanie 1](https://github.com/apajakowski/zad1)
    - [Zadanie 2](https://github.com/apajakowski/zad2)
